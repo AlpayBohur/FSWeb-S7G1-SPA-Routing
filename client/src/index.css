@@ -4,6 +4,13 @@ body {
   font-family: sans-serif;
   background-color: #f2f2f2;
 }
+.active {
+  background-color: black;
+  color: #fff;
+}
+.hide {
+  display: none;
+}
 
 .movie-card {
   background-color: #fff;
